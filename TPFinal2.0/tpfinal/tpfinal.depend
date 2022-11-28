@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1669148572 source:c:\users\usuario\desktop\facu\programación y lab 2\tpfinal\tpfinal\main (2).c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<locale.h>
+
+1669170150 source:c:\users\usuario\desktop\facu\programación y lab 2\tpfinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<locale.h>
+
+1669596027 source:c:\users\lautaro\desktop\programación\facultad y c\trabajo practicos\pyl2\tpfinal2.0\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+
